@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/terminal-workspace-PNbDAcwJ.js","assets/main-BhqJqff_.js"])))=>i.map(i=>d[i]);
+import{r,_ as t}from"./main-BhqJqff_.js";import{u as o}from"./use-page-title-E5C0KLkH.js";r.lazy(()=>t(()=>import("./terminal-workspace-PNbDAcwJ.js"),__vite__mapDeps([0,1])).then(e=>({default:e.TerminalWorkspace})));function n(){return o("Terminal"),null}export{n as component};

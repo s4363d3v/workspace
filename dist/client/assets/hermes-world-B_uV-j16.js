@@ -1,0 +1,1 @@
+import{j as r}from"./main-BhqJqff_.js";import{u as e}from"./use-page-title-E5C0KLkH.js";import{H as o}from"./hermes-world-landing-C95iynVF.js";function n(){return e("HermesWorld — AI Agent RPG"),r.jsx(o,{})}export{n as component};
